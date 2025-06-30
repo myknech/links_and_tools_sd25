@@ -33,7 +33,7 @@
 
 [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html) -- еще одна популярная заглушечная тестовая апишка
 
-[https://petstore.swagger.io/](Swagger Petstore) -- тоже популярная тестовая апишка, но со Сваггером
+[Swagger Petstore](https://petstore.swagger.io/) -- тоже популярная тестовая апишка, но со Сваггером
 
 [The API Challenges](https://apichallenges.herokuapp.com/) -- Alan Richardson API challenges,хорошо документированная апишка, как подымаемая локальным jar , так
 и онлайн версия на heroku. Есть авторизация через токен, челленджей несколько десятков, "можно брать". Может быть проблемой: доки на английском.
