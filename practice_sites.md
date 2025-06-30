@@ -26,9 +26,13 @@
 ### Сервисы и сайты для практики UI тестирования
 
 [Reqres.in](https://reqres.in/) (обращаем внимание на [api key]() которого теперь требуют некоторые запросы)
+
 [SWAPI](https://www.swapi.tech/) -- сервис "только для чтения", иллюстративная апишка с информацией по персонажам, кораблям, планетам и т.д. фильмов Star Wars
+
 [Fake Store API](https://fakestoreapi.com/docs) -- еще одно тестовое заглушечное апи, похожее на регрес.ин , "но не он"
+
 [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html) -- еще одна популярная заглушечная тестовая апишка
+
 [https://petstore.swagger.io/](Swagger Petstore) -- тоже популярная тестовая апишка, но со Сваггером
 
 [The API Challenges](https://apichallenges.herokuapp.com/) -- Alan Richardson API challenges,хорошо документированная апишка, как подымаемая локальным jar , так
